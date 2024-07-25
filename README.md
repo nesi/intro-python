@@ -30,6 +30,8 @@ At the beginning of the workshop, follow these instructions to start a session o
 
 ## Workshop
 
+https://datacarpentry.org/python-ecology-lesson/
+
 We will now show you how to navigate in the Jupyter interface to find them.
 
 
