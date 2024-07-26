@@ -1,8 +1,8 @@
+scikit-learn
 plotnine
 matplotlib
 scipy
 numpy
 pandas
-pillow
 ipython
 ipywidgets
