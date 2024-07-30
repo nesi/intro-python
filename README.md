@@ -7,10 +7,16 @@ Full instructions will be sent to registrants closer to the time of the workshop
 ## Login
 
 Please Click the Link to go to the NeSI Training environment. 
-[Training Environment](https://intro-python-ood-webnode.data.nesi.org.nz)
 
-![Login](data/login.png)
-![App Selection](data/appselection.png)
+[Training Environment](https://intro-python-ood-webnode.data.nesi.org.nz)
+Login
+<p align="center" width="100%">
+    <img width="20%" src="https://github.com/nesi/intro-python/blob/main/data/login.png"> 
+</p>
+App Selection
+<p align="center" width="100%">
+    <img width="20%" src="https://github.com/nesi/intro-python/blob/main/data/appselection.png"> 
+</p>
 
 ## Workshop
 
