@@ -20,18 +20,20 @@ App Selection
 
 ## Workshop
 
-### Day 1
+#### Day 1
 Introduction to Python
 * https://datacarpentry.org/python-ecology-lesson/
 
-### Day 2
+#### Day 2
 Object Oriented Programming in Python
 * https://pletzer.github.io/python-oop-novice/
+
 
 
 ## Additional Python Lessons
 Machine Learning 101 - Introduction to ML
 * https://github.com/nesi/sklearn_tutorial
+  
 Machne Learning 102 - Image Anlysis
 * https://github.com/nesi/ml102_workshop
 
