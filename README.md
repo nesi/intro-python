@@ -9,25 +9,24 @@ Full instructions will be sent to registrants closer to the time of the workshop
 Please Click the Link to go to the NeSI Training environment. 
 [Training Environment](https://intro-python-ood-webnode.data.nesi.org.nz)
 
-
+![Login](data/login.png)
+![App Selection](data/appselection.png)
 
 ## Workshop
 
 ### Day 1
-* Introdutction to Python
-    - https://datacarpentry.org/python-ecology-lesson/
-    - Google Doc
+Introdutction to Python
+* https://datacarpentry.org/python-ecology-lesson/
+
 ### Day 2
-* Object Oriented Programming
-    - here
-    - Google Doc
+Object Oriented Programming in Python
+* https://pletzer.github.io/python-oop-novice/
 
 ## Additional Python Lessons
-
-* Machine Learning 101 - Introduction to ML
-    - https://github.com/nesi/sklearn_tutorial
-* Machne Learning 102 - Image Anlysis
-    - https://github.com/nesi/ml102_workshop
+Machine Learning 101 - Introduction to ML
+* https://github.com/nesi/sklearn_tutorial
+Machne Learning 102 - Image Anlysis
+* https://github.com/nesi/ml102_workshop
 
 
 
