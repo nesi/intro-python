@@ -23,6 +23,10 @@ App Selection
 #### Day 1
 Introduction to Python
 * https://datacarpentry.org/python-ecology-lesson/
+    - [2 - Short Introduction to Python](https://datacarpentry.org/python-ecology-lesson/01-short-introduction-to-Python.html)
+    - [3 - Starting With Data](https://datacarpentry.org/python-ecology-lesson/02-starting-with-data.html)
+    - [4 - Indexing, Slicing and Subsetting DataFrames in Python](https://datacarpentry.org/python-ecology-lesson/03-index-slice-subset.html)
+    - [5 - Data Types and Format](https://datacarpentry.org/python-ecology-lesson/04-data-types-and-format.html)
 
 #### Day 2
 Object Oriented Programming in Python
