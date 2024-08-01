@@ -10,8 +10,7 @@ Please Click the Link to go to the NeSI Training environment. [Training Environm
 
 <p align="left" width="100%">
     <img width="45%" src="https://github.com/nesi/intro-python/blob/main/data/login.png"> 
-</p>
-<p align="right" width="100%">
+align="right" width="100%">
     <img width="40%" src="https://github.com/nesi/intro-python/blob/main/data/appselection.png"> 
 </p>
 
