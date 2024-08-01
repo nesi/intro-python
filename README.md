@@ -2,19 +2,16 @@
 
 This is an online workshop that will use the NeSI training environment.
 Attendees will be supplied with a user id `training1234` and password `wXyz1234` 
-Full instructions will be sent to registrants closer to the time of the workshop.
+Full instructions will be sent to registrants closer to the time of the workshop and login details provided on the day.
 
 ## Login
 
 Please Click the Link to go to the NeSI Training environment. [Training Environment](https://intro-python-ood-webnode.data.nesi.org.nz)
 
-<p align="center" width="100%">
+<p align="left" width="100%">
     <img width="45%" src="https://github.com/nesi/intro-python/blob/main/data/login.png"> 
 </p>
-
-App Selection  
-
-<p align="center" width="100%">
+<p align="right" width="100%">
     <img width="40%" src="https://github.com/nesi/intro-python/blob/main/data/appselection.png"> 
 </p>
 
