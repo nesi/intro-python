@@ -1,5 +1,4 @@
 # Introduction to Python 
-#<p align="left"> <img width="10%" src="https://github.com/nesi/training-environment-jupyter-python-app/blob/main/icon.png"/> </p>
 
 ![]([https://  link](https://github.com/nesi/training-environment-jupyter-python-app/blob/main/icon.png) | width=100)
 
