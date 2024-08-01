@@ -1,6 +1,6 @@
 # Introduction to Python 
 
-<img src="https://github.com/nesi/training-environment-jupyter-python-app/blob/main/icon.png" width="385px" align="center">
+<img src="https://github.com/nesi/training-environment-jupyter-python-app/blob/main/icon.png" width="150px">
 
 
 This is an online workshop that will use the NeSI training environment.
