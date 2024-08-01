@@ -1,6 +1,7 @@
 # Introduction to Python 
 
-![](https://github.com/nesi/training-environment-jupyter-python-app/blob/main/icon.png | width=100)
+<img src="https://github.com/nesi/training-environment-jupyter-python-app/blob/main/icon.png" width="385px" align="center">
+
 
 This is an online workshop that will use the NeSI training environment.
 Attendees will be supplied with a user id `training1234` and password `wXyz1234` 
