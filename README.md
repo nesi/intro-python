@@ -40,6 +40,9 @@ Machne Learning 102 - Image Anlysis
 Try Jupyter
 https://jupyter.org/try-jupyter/lab/
 
+Python for Data Analysis
+https://wesmckinney.com/book/
+
 
 
 
