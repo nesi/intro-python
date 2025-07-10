@@ -4,7 +4,6 @@
 
 
 This is an online workshop that will use the NeSI training environment.
-Attendees will be supplied with a user id `training1234` and password `wXyz1234` 
 Full instructions will be sent to registrants closer to the time of the workshop and login details provided on the day.
 
 ## Login
