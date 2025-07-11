@@ -33,7 +33,7 @@ https://pletzer.github.io/python-oop-novice/
 Machine Learning 101 - Introduction to ML
 * https://github.com/nesi/sklearn_tutorial
   
-Machne Learning 102 - Image Anlysis
+Machine Learning 102 - Image Anlysis
 * https://github.com/nesi/ml102_workshop
 
 Try Jupyter
