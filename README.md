@@ -52,7 +52,7 @@ https://wesmckinney.com/book/
     </p>
   </div>
   <div style="flex: 1; text-align: right;">
-    <img src="https://images.squarespace-cdn.com/content/v1/628a8ae9fe38b23ef951d7ef/55f63348-a65b-4585-bba2-9bed76df7098/Kiwi_PyCon_Horizontal32_Web.png?format=2500w" alt="Kiwi PyCon logo" style="max-width: 50%; height: auto;">
+    <img src="https://images.squarespace-cdn.com/content/v1/628a8ae9fe38b23ef951d7ef/55f63348-a65b-4585-bba2-9bed76df7098/Kiwi_PyCon_Horizontal32_Web.png?format=2500w" alt="Kiwi PyCon logo" style="width: 50%; height: auto;">
   </div>
 </div>
 
