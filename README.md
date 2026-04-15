@@ -41,14 +41,14 @@ https://jupyter.org/try-jupyter/lab/
 Python for Data Analysis
 https://wesmckinney.com/book/
 
-## Kiwi PyCon 2025
+## Kiwi PyCon 2026 - taking a break
+
+try - PyCon Australia https://2026.pycon.org.au/
 
 <div style="display: flex; align-items: center;">
   <div style="flex: 1;">
     <p>
-      <a href="https://kiwipycon.nz/" target="_blank">Kiwi PyCon 2025</a><br>
-      Wellington<br>
-      21–23 November
+      <a href="https://kiwipycon.nz/" target="_blank">Kiwi PyCon 2026</a><br>
     </p>
   </div>
   <div style="flex: 1; text-align: right;">
