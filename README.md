@@ -28,6 +28,16 @@ https://datacarpentry.org/python-ecology-lesson/
 https://pletzer.github.io/python-oop-novice/
 
 
+## Data
+
+Datasets ship with this repo under [`data/`](data/) — see [`data/README.md`](data/README.md) for columns and provenance.
+
+* Portal surveys — `data/surveys.csv`, `data/species.csv` (Data Carpentry python-ecology)
+* Gapminder, tidy long — `data/gapminder.csv` (1704 rows: country, year, pop, continent, lifeExp, gdpPercap)
+* Gapminder, wide — `data/gapminder_all.csv` and `data/gapminder_gdp_<continent>.csv` (Software Carpentry [python-novice-gapminder](https://swcarpentry.github.io/python-novice-gapminder/))
+
+On the training environment these appear in `~/intro-python/data/`.
+
 ## Additional Python Resources
 Machine Learning 101 - Introduction to ML
 * https://github.com/nesi/sklearn_tutorial
